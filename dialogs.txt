@@ -1,0 +1,255 @@
+WELCOME TO 
+THERE IS NO WAR!
+................
+Mr "secretary" : "King, Allies of the kingdom of Arekadia, the war with the demon king armies is inevitable at this point, it is, indeed, time for the council to reunite and prepare ..."
+The counselor : “Please salute, the one-hundred and third High King of the mighty kingdom of Arekadia, King Thaerdon II.”
+The counselor : “From the mountains and caves of Rokadia in the East, the Dwarf’s War Chief Thralgud.”
+The counselor : “From the lush and green forests of the West, the Representant of the Grenizia Coalition Galadhlas.”
+The counselor : “From the harsh's, hot, and barren lands of the South, the Chieftain of the Amazones, Eria.”
+The counselor : “And from the frozen lands of Borealion, the Grandmaster Wizard Zedfis of the Magic school of Northin'Red.”
+King Thaerdon II : “I hereby declare the council of the High Continent Alliance open.”
+The counselor : “Loyal members of the council, the armies controlled by the Demon King have started to invade our continent.”
+King Thaerdon II : “Please, each member state your reports.” 
+* Who speaks first ? 
+#Representant Galadhlas
+#Grandmaster Zedfis
+#War Chief Thralgud
+#Chieftain Eria
+ Representant Galadhlas : “A large number of rotten dragons have been spotted near the entrances of the elven forests at nighttime.”
+ Grandmaster Zedfis : “Disruptions in the magic flow have been detected all around the continent these past weeks by the high wizards.”
+ War Chief Thralgud : “Packs of demonic wolf have been spotted around the mountains.”
+ Chieftain Eria : “Garrisons of skeleton soldiers have started to appear near the south’s deserts.”
+King Thaerdon II : "Thank you for your reports"
+King Thaerdon II : "I would like to hear your opinions towards the possible routes that the Demon King's army might take to attack us."
+* Who speaks first ?
+#Representant Galadhlas
+#Grandmaster Zedfis
+#War Chief Thralgud
+#Chieftain Eria
+ Representant Galadhlas : "Dear council members, if I may say so, the forest are quite wild, so passing through is quite hard, but there is still a lot of ways to get through without too much difficulties if one knows the forest well enough ... if the dark elves that left the forest really joined the Demon King's army, then we can expect at least 100 units to pass through the forest."
+ Grandmaster Zedfis : "The meadows looks the easiest to pass through, but it is also the zone with the less obstacles to take cover, heavy units may be send through there, and by the estimation of the magic flow there, at least more than 200 hundred demons' units will pass through there."
+ War Chief Thralgud : "If I may, I think that it is less likely for them to try to pass through the mountains. The mountain's roads are narrow and there are few of them, at most, only a group of 40 soldiers at maximum could pass through without being too hindered."
+ Chieftain Eria : "I think the beaches will be the most infested zone, since there are close to zero obstacles, it may be wise to place the most soldiers there. Even though the potential presence of pirates is unsettling, there might still be at most 200 units of demons passing there."
+King Thaerdon II : "Indeed ..."
+Grandmaster Zedfis : "But King Thaerdon II, by the estimation of the amount of mana being drained around the Demons' Castle, there should be only around 500 units."
+War Chief Thralgud : "You say 'only' old man, but we are only superior by 100 units, which is not enough to give us an overwhelming advantage."
+Chieftain Eria : "But it is enough if the strategy is well laid out, and every units fulfill there role."
+King Thaerdon II : "Now, about the layout of the units from each of your armies ..."
+* Which layout do you prefer ? 
+#Representant Galadhlas : "light weight units in the mountains, long range units in the forest, heavy units in the meadows, magic units at the beaches."
+#Grandmaster Zedfis : "long range units in the mountains, light weight units in the forest, magic units in the meadows, heavy units at the beaches."
+#War Chief Thralgud : "heavy units in the mountains, magic units in the forest, long range units in the meadows, light weight units at the beaches."
+#Chieftain Eria : "magic units in the mountains, heavy units in the forest, light weight units in the meadows, long range units at the beaches."
+ King Thaerdon II : "The light weight units in the mountains will be able to move more easily than other units, and the long range units will have plenty of covers for them in the forest."°
+ King Thaerdon II : "The long range units in the mountains will have covers for them, while magic units in the meadows will have plenty of room to unleash powerful magic spells."°
+ King Thaerdon II : "The heavy units in the mountains will be able to lay traps and ambush the enemy, while light weight units at the beaches will have ease of movements on the sand."°
+ King Thaerdon II : "The magic units in the mountain will be able to lay traps and block roads for the enemy, and light weight units in the meadows will be able to move faster."°
+War Chief Thralgud : "If the King says so ..."
+Grandmaster Zedfis : "I believe this to be a wise choice."
+King Thaerdon II : "Thank you for your approval."
+War Chief Thralgud : "Argh, but, my throat is sore, it wouldn't be displeasing to have something to gulp down ..."
+* What beverage do you want the butler to bring ? 
+#King Thaerdon II : "Smith, bring us some fresh water please."
+#King Thaerdon II : "BRING OUT THE BOOZE SMITH ! RIGHT AWAY !"
+#King Thaerdon II : "Please Smith, bring us some tea along with some snacks to go with it."
+#King Thaerdon II : "If you would please Smith take out a 1XX8 bottle of red vine."
+ War Chief Thralgud : "Thank you Sir."°
+ War Chief Thralgud : "THAT'S THE KING I KNOW!"°
+ War Chief Thralgud : "Ugh, some flowers and plants coming from these birdbrains' forest ..."°
+ War Chief Thralgud : "Ohhhhhh, this is some fine wine to serve at a council."°
+Representant Galadhlas : "Ahhhh, troublesome shortstuff ..."
+Chieftain Eria : "I'm not against some thirst."
+Grandmaster Zedfis : "Neither would I be, thank you for your hospitality Sir King."
+* Respond to the appreciation of the council members.
+#Speak politely
+#Speak friendly and warmly
+#Speak harshly
+#Speak devilishly
+ King Thaerdon II : "You're welcome dear members of the council, this is but a normal way to treat your honorable guests."°
+ King Thaerdon II : "Don't worry about it my friends! Ask for whatever you need !"°
+ King Thaerdon II : "Now I hope you'll shut your traps and concentrate on this damn council so I can then relax in the royal baths."°
+ King Thaerdon II : "Now I hope you'll stop being disrepecteous, and start following my orders correctly."°
+$
+King Thaerdon II : "I would like to hear what your different sources of intel told you about the intentions of the Demon King."
+* Who speaks first ?
+#Representant Galadhlas
+#Grandmaster Zedfis
+#War Chief Thralgud
+#Chieftain Eria
+ Representant Galadhlas : "From the intel gathered by some spying plants, we were able to understand that the Demon King wants to make every races across the planet submit to him, and to finally indulge in wordly desires."
+ Grandmaster Zedfis : "One of our spies, who looked through some scrolls in the library of the Demon Castle found out that the Demon King wants to open a gate to another world or dimension, potentially to invade it."
+ War Chief Thralgud : "Some of our miners found holes being dugged by goblins, and we deduced by the depth of their holes that they are looking for rare metals and crystals, and potentially mana-infused one."
+ Chieftain Eria : "Some of my warriors captured a high-ranked demon and interrogated him on the plans of their king, and he said that he would make the dream of every demonic creature come true, but he died before telling the rest."
+War Chief Thralgud : "Hey, it sounds weird, how come you elves can communicate with plants ? Are you sure that it's not one of your betrayers that told you false info ? or maybe you're just saying wrong info because you betrayed us all ?"
+Representant Galadhlas : "You stupid midget, of course we can understands plants, we live in harmony with nature, so of course we can communicate with it, we have interprets to communicate with them accurately."
+Grandmaster Zedfis : "They have even started some of our mages how to communicate with plants created by magic. But King, maybe did you deduce something from these intel ?"
+* What do you think ?
+#You have an idea that links all these intels.
+#You have one or two ideas on what the crystals are for.
+#You think one of them is giving false intel.
+#You don't care, you change the subject.
+ King Thaerdon II : "I think the crystals gathered in the mines are to be used for powering the gate Zedfis was talking about, and maybe this gate leads to the ideal world for demons, and they plan to submit every one on this planet to gather the materials for this."°
+ King Thaerdon II : "It's just a hunch, but maybe the crystals and the dream of the demons are related to this gate."°
+ King Thaerdon II : "Galadhlas, I don't want to sound presumptuous but your intel is the most fishy one, it doesn't fit with what everyone else is saying... But well anyway let's continue."°
+ King Thaerdon II : "Ahhhhhhhh, I wonder what there is for diner, hungry like hell ... Hehe, hell, and we're talking about demons, how funny can I be, anyway let's continue."°
+King Thaerdon II : "Let's continue, there is also the problem of piratery around the beaches ..."
+Representant Galadhlas : "These guys are the biggest problem, they are so unpredictable, it's hard to know if they will interfere during the battle..."
+Grandmaster Zedfis : "They are composed of almost every races and do not discriminates between demons and the rest, they sail all around the world and even in places our forces never went to."
+War Chief Thralgud : "Troublesome bunch, they can even attack us long range with their canons, and we, on land, only have bows to defend against them, because heavy artillery and catapults will be directed towards the demon."
+Chieftain Eria : "Even if our warriors are good swimmers, they are way too easy targets, so only in the case they set their feet on the sand, could we hope to defeat them, but it will be very complicated for the troops to handle both pirates and demons."
+* What do you think about the Pirates' issue ?
+#You think it would be better to avoid a bit the beaches in case they attack.
+#You think it won't be too much of a problem if you have anticipated the possibility of them attacking.
+#You still don't care.
+#You remember your younger days' dreams.
+ King Thaerdon II : "I would prefer it if less units passed through the beaches during the battle, worst case scenario we'll keep some units at the castle to defend if a garrison pass through there and reaches us."°
+ King Thaerdon II : "Let's not fret too much, I believe that we can just prepare a strategy which will take into account a possible attack coming from the seas, and it should be alright."°
+ King Thaerdon II : "Ehhhhhhhh, why should we care about those poor beggars ? they're just a group of homeless who thought it would better for them to regroup on a boat to live."°
+ King Thaerdon II : "Ahhhh, I remember when I was a kid and wanted to become a pirate, maybe I should have become one ... Anyway ..."°
+King Thaerdon II : "Hm, Grandmaster Zedfis, do you have the weather forecast for the day of the battle ?"
+Grandmaster Zedfis : "Yes, our wizards calculated that on the day of the battle there should be not much precipitations, so no rain or storms, and wind shouldn't be too strong so not a problem for the long range units."
+King Thaedron II : "Thank you, now, can you tell me about the Dragonic tribe ? Are they going to help us or are they going to stand aside ?"
+Grandmaster Zedfis : "The Dragonic tribe decided to not meddle with the mortal, and prefer to stay in the northern Isles in the Cryptionia Sea."
+King Thaedron II : "I see, I understand their decision. Now, concerning the Demon King in case of our victory ..."
+* What do you want to do about the Demon King after defeating him ?
+#You decide to kill him.
+#You decide to imprison him and let the people of the kingdom decide of his fate.
+#You decide to capture him and torture him to death.
+#You decide to capture him and to publicly torture and execute him.
+ King Thaerdon II : "We should defeat and kill him during the battle, to let him die as a warrior."°
+ King Thaerdon II : "We should capture him and bring him back to the kingdom to let the people decide of his fate, after all they were the ones who suffered the most because of him."°
+ King Thaerdon II : "We should keep him alive and torture him to know what his plans were and if there is any other demon susceptible of claiming his title and continue his legacy and goal."°
+ King Thaerdon II : "We should keep him alive and humiliate and torture him in public, to let the people who suffered because of him see his disgrace, and finally execute him when the people decide that he suffered enough."°
+Grandmaster Zedfis : "As the King wishes, we'll execute your orders..."
+Chieftain Eria : "Well as long as we get rid of his nuisance across the continent, it is enough for me."
+Representant Galadhlas : "But what should we do about the remaining demons ?"
+* What should they do about the remaining demons ?"
+#Exile them on islands far away.
+#Try to integrate them into the world.
+#Get rid of them all.
+#Keep them as slaves.
+ King Thaerdon II : "To be sure no other Demon King will arise and threaten us, we should exile the remaining demons on far away islands."°
+ King Thaerdon II : "We should try to integrate them to our society and give them a chance to become a peaceful race."°
+ King Thaerdon II : "Let's just kill every last one of them, so to be sure none of them will be able to go against us again."°
+ King Thaerdon II : "Heh, let's keep them as pets, and exploit them, they should serve as good slaves."°
+$
+King Thaerdon II : "Is everyone alright with this ?"
+War Chief Thralgud : "We will believe that you made the right choice."
+Grandmaster Zedfis : "Indeed, you are the King of all humanity after all."
+King Thaerdon II : "Thank you. Now, for the upcoming battle, how long each of you estimate it will be ?"
+* Who speaks first ?
+#Representant Galadhlas
+#Grandmaster Zedfis
+#War Chief Thralgud
+#Chieftain Eria
+ Representant Galadhlas : "I believe this battle would take about two or three days."
+ Grandmaster Zedfis : "It should our united armies about a day to fight off the demons."
+ War Chief Thralgud : "I believe that everything will have ended after a week."
+ Chieftain Eria : "It would take at most five days to defeat all the demons."
+King Thaerdon II : "Umu, so, it shouldn't take more than a week ... alright thank you everyone. Now how are your men doing ?"
+* Who speaks first ?
+#Representant Galadhlas
+#Grandmaster Zedfis
+#War Chief Thralgud
+#Chieftain Eria
+ Representant Galadhlas : "Our rangers and archers are doing great, they have enough rest, and time to train, no one is sick, and everyone is in highspirit for the battle."
+ Grandmaster Zedfis : "The wizard are resting and some of them are still experiencing with new spells, but everyone is doing well, and no one is sick or suffering from a mana deficiency."
+ War Chief Thralgud : "My warriors are kinda getting bored and we're starting to run low on booze, but everyone is in good health !"
+ Chieftain Eria : "My warriors are all well, apart from some sexual harassement from the shortstuffs at the beginning, no problem whatsoever right now."
+King Thaerdon II : "Very well ... Um... Tharlgud, is it true that your men harassed the amazone women ?"
+War Chief Thralgud : "Ugh ... Uhh, yes, actually, my men are quite stressed from the war and everything, and the amazons got quite some good assets, soooo, they kind of succumbed to their lust..."
+Representant Galadhlas : "How utterly disgusting ..."
+Chieftain Eria : "King do not worry, my girls are not so easy as to let themselves be groped without fighting back, I reckon your warriors all received quite the beating from my girls afterwards right ?"
+War Chief Thralgud : "Yes, indeed, but I wanna apologize again in their stead, I'm really sorry for their misbehaving, they won't harass your warriors ever again."
+Chieftain Eria : "I accept your apology, but you'll have to apologize to all the girls as well."
+Grandmaster Zedfis : "Indeed this is the least to do as a gentleman and a leader."
+War Chief Thralgud : "Surely, without fail."
+Grandmaster Zedfis : "Huhu, this matter aside, I would like to report as well that the sacred flying temple have been deviated from its usual course of flight, and is being directed towards the Demon Castle."
+* What do you think about this ?
+#It is definitely linked to the previous informations.
+#Maybe there is something important for them on the temple.
+#Duh, it's just a piece of rock anyway.
+#It is of no relevance in the matter of the war.
+ King Thaerdon II : "The sacred flying temple is the last relic of the Ancients, the one who were here before every living creatures on this planet, there is definitely a link between this temple and the gate the Demon King is trying to open, surely either the temple is a piece of the gate or it contains a catalyst to optimiize the gate."°
+ King Thaerdon II : "Maybe this flying temple actually contains materials necessary for the construction of the gate of the Demon King, but it is a great sacrilege, because this temple is the subject of a treaty of protection, it mustn't be damaged in any way."°
+ King Thaerdon II : "Seriously, why do we even bother with a piece of rock, just leave it be."°
+ King Thaerdon II : "What ? Is it a problem that it is flying towards the Demon Castle ? Then just make it blow up with some destruction magic and the problem is gone."° 
+Grandmaster Zedfis : "Indeed ..."
+Representant Galadhlas : "This temple always intrigued me, but I was never able to go on it... Ah, it reminds me, there is the ancient elven temple, in the deepest part of the forest, and it's waystone, supposed to link places far away together, and it's been emitting a faint glow these past weeks..."
+* What do you think about this ?
+#It is linked to the activity of the Demon King.
+#The waystone must be disturbed by the flow of mana.
+#Something useless again ...
+#It is of no relevance in the matter of the war.
+ King Thaerdon II : "It's obvious that the waystone either is being consciously activated by the Demon King, or the opening of the gate to another world also awakened the waystone, because it is linked to the same other world, or there is also the possibility that the sacred flying temple is necessary to activate the waystone and it's approach is making it work again."°
+ King Thaerdon II : "The unusual activity of the mana because of the Demon King must be reactivating the waystone partially and making it glow."°
+ King Thaerdon II : "Again ?!? is there a new trend with glowing things and flying objects nowadays ..."°
+ King Thaerdon II : "Destruction magic seems to be the best solution again ..."° 
+Grandmaster Zedfis : "Uhh, if it is really linked to these things, we must prevent people from going near it until further investigation, the wizards would be happy to help the Elves in the investigation."
+Representant Galadhlas : "Please do so, we definitely need the help of experts of mana manipulation."
+Grandmaster Zedfis : "Changing the subject, King, how is the Queen doing ? Thinking you have a upcoming battle, she must be restless ..."
+* How is the Queen doing ?
+#Well.
+#Worried.
+#You're confused.
+#You're joking a bit, but the Queen is doing well.
+ King Thaerdon II : "The Queen is doing pretty well, she trusts us."°
+ King Thaerdon II : "She seems worried, but she is still doing well."°
+ King Thaerdon II : "How would I know ? I'm never in the Castle when I have no work, I have concubines to attend to."°
+ King Thaerdon II : "The Queen ? Which one ? The official one or the secret one ? Ahahahah kidding, they're both doing well."° 
+$
+Grandmaster Zedfis : "Very well ..."
+Chieftain Eria : "I would like to know if we could have a weaponsmith check our equipement before the battle."
+* What do you decide ?
+#You don't have a problem with it
+#You think the dwarf's weaponsmiths are better than the ones of the kingdom.
+#You think it's too late to do this.
+#You think it's useless.
+ King Thaerdon II : "Of course, let me just write a royal decree to let you go to the royal blacksmith."°
+ King Thaerdon II : "There is no problem with me, but I believe our friends the Dwarfs will do a better job than the kingdom's blacksmiths."°
+ King Thaerdon II : "You should have asked last week, there is no way the blacksmiths will have enough time to check the equipement of every soldiers in time for the battle."°
+ King Thaerdon II : "Ehh, yeah, go and do whatever you want, but it's not my problem and don't think I'll pay the fees."°
+Chieftain Eria : "As you wish King."
+King Thaerdon II : "I would like to know which unit of the Demon King you think will be the most dangerous."
+* Who speaks first ?
+#Representant Galadhlas
+#Grandmaster Zedfis
+#War Chief Thralgud
+#Chieftain Eria
+ Representant Galadhlas : "I believe the goblins will be the most troublesome ones because of their small size, allowing them to evade more easily arrows, and their sheer numbers."
+ Grandmaster Zedfis : "I would watch out for the liches, these undead have magic attacks resistance and can't be totally killed by anything other than an attack bestowed with the holy attribute."
+ War Chief Thralgud : "I think the most dangerous creatures of the Demon King army are the dragons, because their hard scales cannot be pierced by arrows, and you have to go close combat to actually inflige some damage, with the risk of being stomped on."
+ Chieftain Eria : "I believe the most troublesome bunch in the Demon King army is the Lizard men tribe, they are excellent hunters and excel in traps."
+King Thaerdon II : "Thank you everyone."
+King Thaerdon II : "I want to be sure that everyone is fully prepared for the battle ..."
+*Who speaks first ?
+#Representant Galadhlas
+#Grandmaster Zedfis
+#War Chief Thralgud
+#Chieftain Eria
+ Representant Galadhlas : "The last herbs we needed for our potions were harvested this morning, and the potions will soon be done, and we will be set."
+ Grandmaster Zedfis : "Every wizards have prepared at least ten mana-replenishing crystals, and has completed their spells, everyone will be ready on time for the battle."
+ War Chief Thralgud : "All of my men have had their drinks, they took their food rations and sharpened their weapons, everyone is raring to go to battle."
+ Chieftain Eria : "My girls are all ready, they finished the purifying ritual and cleansing baths, so we are all ready to start."
+King Thaerdon II : "Now, council members it is time to engage in battle, any words to say before departure ?"
+* Who speaks first ?
+#Representant Galadhlas
+#Grandmaster Zedfis
+#War Chief Thralgud
+#Chieftain Eria
+ Representant Galadhlas : "I am honored to go to war with each of you, I pray for our luck, and for our victory, LONG LIVE THE KING!"
+ Grandmaster Zedfis : "All of you are distinguished warriors, I hope this battle will be ours, and that we will reclaim our peace, and protect the lands, long live the King !"
+ War Chief Thralgud : "We are gonna destroy this bastard and his bastards ! WE ARE THE STRONGEST ! VICTORY IS OURS ! LONG LIVE THE KING !"
+ Chieftain Eria : "It is an honour to battle along side the mightiest warriors of the continent, I pray to our goddess for victory and for peace, LONG LIVE THE KING !"
+*What do you have to say ?
+#You are honoured as well.
+#With them, you believe victory is already in your hands.
+#You don't want to hurt their feelings, but you're realistic.
+#You think it will go as smoothly as it can go.
+ King Thaerdon II : "My brethren ! I am the most honoured to be followed by the most powerful people of the continent ! Victory is ours !"°
+ King Thaerdon II : "My brethren ! With you by my side, victory is only a matter of time, there is no doubt victory will be ours !"°
+ King Thaerdon II : "My brethren, there is no doubt our army is strong, but nothing is baked, not all the cards have been played."°
+ King Thaerdon II : "Yeah, whatever, with or without all of you here the outcome will always be the same, I WILL WIN ! LONG LIVE THE KING !"°
+$
+King Thaerdon II : "Now it is time, my brethren, to start the final battle ..."
+¤

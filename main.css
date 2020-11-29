@@ -1,0 +1,153 @@
+*{
+	text-decoration: none;
+	margin: 0px;
+	font-family: Verdana;
+}
+
+body{
+	background-color: DarkSeaGreen;
+}
+
+header{
+	width: 100%;
+	min-height: 180px;
+	background-image: url("Boy.jpg");
+	background-color: SlateGrey;
+	text-align: center;
+}
+
+h1{
+	padding-top: 90px;
+	color: HoneyDew;
+}
+
+nav{
+	position: relative;
+	background-color: black;
+	
+}
+
+nav ul li{
+	display: inline-block;
+	position: relative;
+	
+	padding: 10px;
+	
+	color: white;
+}
+
+nav ul li a{
+	color: white;
+	border-radius: 0px;
+}
+
+nav ul li:hover{
+	background-color: DarkSeaGreen;
+}
+
+aside{
+	float: left;
+	width: 23%;
+	padding: 1%;
+
+	
+	
+	background-color: HoneyDew;
+}
+
+button {
+	margin: 10px;
+	
+	float: left;
+}
+
+section{
+	float: right;
+	width: 73%;
+	padding: 1%;
+	min-height: 562.5px;
+	
+	
+	background-color: HoneyDew;
+}
+
+
+
+section p{
+	
+	padding: 10px;
+	
+	
+}
+
+section ul li a{
+	color: black;
+	
+	
+	
+}
+
+.home li{
+	padding-bottom: 25px;
+	padding-top: 25px;
+	padding-left: 10px;
+	text-decoration: none;
+	border: 2px solid HoneyDew;
+	border-style: outset;
+	margin-top: 60px;
+	margin-bottom: 60px;
+	font-size: 23px;
+}
+
+section h2{
+	padding:20px;
+}
+
+
+
+
+
+
+h5 {
+	padding: 20px 0px 20px 0px;
+	text-indent: 30px;
+}
+
+.stopfloat{
+	clear: both;
+}
+
+article{
+	border: 2px solid HoneyDew;
+	border-style: outset;
+	min-height: 200px;
+	margin-top: 5px;
+}
+
+footer{
+	clear: both;
+	min-height:100px;
+	margin-bottom:auto;
+	padding: 15px;
+	
+	
+	background-color: DimGrey;
+}
+
+a:active{
+	
+	font-size: 1.05em;
+}
+
+img{
+	position: relative;
+	float: right;
+	
+}
+
+.text {
+	position: relative;
+	float: left;
+	max-width: 700px;
+	
+}
